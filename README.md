@@ -2,4 +2,6 @@ magnet:?xt=urn:btih:f5a70050906b9504db2076563cadbc10835f5796&dn=100%20Volte%20Na
 
 magnet:?xt=urn:btih:2D988B5F9CDF09E55592E6F8DED91E1116777D40
 
+<a href="magnet:?xt=urn:btih:f5a70050906b9504db2076563cadbc10835f5796&amp;dn=titolo del file&amp;tr=udp://open.demonii.com:1337/announce" title="titolo del file" target="_blank">magnet link test</a>
+
 http://ecosia.org/
