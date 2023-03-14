@@ -17,8 +17,8 @@ body {
 }
 
 .circle {
-  width: 35px;
-  height: 35px;
+  width: 65px;
+  height: 65px;
   border-radius: 50%;
   box-shadow: 0px 0px 1px 1px #0000001a;
 }
